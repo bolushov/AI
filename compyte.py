@@ -15,3 +15,5 @@ print("Размер обучающей выборки с random_state=42:", X_tr
 print("Размер тестовой выборки с random_state=42:", X_test_42.shape)
 print("Размер обучающей выборки с random_state=1:", X_train_1.shape)
 print("Размер тестовой выборки с random_state=1:", X_test_1.shape)
+
+# Примеры СЛАУ

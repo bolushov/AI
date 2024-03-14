@@ -24,3 +24,5 @@ class KNNClassifier:
             result = max(mark_count, key=mark_count.get)
             y_pred.append(result)
         return y_pred
+
+# Примеры СЛАУ

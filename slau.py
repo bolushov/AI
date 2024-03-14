@@ -72,3 +72,4 @@ try:
 except ValueError as e:
     print("Произошла ошибка:", e)
 
+# Примеры СЛАУ
